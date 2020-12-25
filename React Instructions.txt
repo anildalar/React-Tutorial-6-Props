@@ -1,0 +1,102 @@
+React
+1. React is a JavaScript library for building user interfaces.
+
+2. React is used to build single page applications (SPA).
+
+3. React allows us to create reusable UI components.
+
+4. React uses Virtual DOM ( Document Object Model )
+
+5. React runs on defaul port 3000
+
+6. React was build by Facebook
+
+7. React uses Babel ( Javascript Compiler )
+
+8. React uses Webpack ( Module Bundler ).
+
+To BUild Single Page Application (SPA) There are 3 Most Popular Framework avaible in the market
+
+1. Angualar - Google    (Miško Hevery)    - 500KB  Real DOM
+2. React    - Facebook  (Jordan Walke)    - 100KB  Virtual DOM + Real DOM
+3. VueJs    - Developer (Evan You)	  - 80KB   Virutal DOM + Real DOM
+
+DOM
+Document Object Model
+
+Starting View file
+	public/index.html
+Starting Logic file
+	src/index.js
+
+https://reactjs.org/
+https://www.w3schools.com/react/default.asp
+
+
+npx create-react-app react1
+
+Install Node JS
+
+node -v
+Node Package Manager
+npm -v
+
+Components
+1. Components are independent and reusable bits of code
+2. Components Return HTML
+3. Components can contain other components
+
+There are 2 Types of Component In React
+
+1. Functional Component
+	Uses Functions
+2. Class Component
+	Uses Class
+
+Lets Create a Functional Component
+Ok Lets Create a Nested Functional Component
+Component Must have PascalCase Naming Convention
+OK
+
+Lets Create an another Functional Component
+
+Must use PascalCase     AnilDollor
+camelCase   		anilDollor
+
+Ok This is how you create a functional Component
+Now lets Upload this code to github
+
+Code is updloaded successfully to github.
+
+Thank you for watching this video.
+
+React Tutorial 4
+ . Components can contain other components
+
+1. Functional Component
+	1.1 Js Function
+	1.2 Arrow Function
+2. Class Component
+
+1. Class Component can contain other Class Component
+2. Class Component can contain other Functional Component
+3. Functional Component can contain Class Component
+4. Functional Component can contain other Functional Component
+
+React Tutorial 5 - Class Component Export/Import
+
+You can Import Class Component in Other Class Component File
+
+https://github.com/anildalar/ReactTutorial-4-Class-Compoent-Export-Import
+
+
+React Tutorial 6 - Props/States
+
+What are Props?
+1. Props are arguments/Parameters passed into React components.
+2. Props are passed to components via HTML attributes.
+3. Props are built in object of React Component
+4. Props are read-only;
+
+
+
